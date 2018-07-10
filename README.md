@@ -1,2 +1,2 @@
 # Hello-World
-First repository, it is to test this environment
+This is the first repository created on the 7th of July 2018. It's only for experimental purpose.
